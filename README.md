@@ -6,8 +6,8 @@
 -   RFM clustering
 </b>
 <p align="center">
-Clusters : <br/>
+<!-- Clusters : <br/>
 <img src="https://i.imgur.com/npLIJhc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
-<br />
+<br /> -->
 
 <b>Full project's version and the result of the segmentation you may see in the provided ipynb notebook.</b>
